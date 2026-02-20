@@ -10,3 +10,15 @@ The purpose of the image classification model is to automatically identify and c
 
 ## B. Plant Species Section
 
+
+
+
+
+
+
+## Reflection Questions
+1. How did the number of images per class affect your model’s accuracy?
+-
+
+2. Which plant species were most commonly misclassified and why?
+-
