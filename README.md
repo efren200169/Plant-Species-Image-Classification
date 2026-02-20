@@ -7,3 +7,6 @@ This project is about legumes, which are plants that produce pods with seeds ins
 ## Brief Description of the Project:
 
 The purpose of the image classification model is to automatically identify and classify different types of legumes based on their images. This model helps recognize legumes such as beans, peas, and peanuts quickly and accurately. It can also help students and researchers organize data, reduce manual work, and improve the accuracy of identifying legumes.
+
+## B. Plant Species Section
+
