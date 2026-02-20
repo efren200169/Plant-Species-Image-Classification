@@ -18,7 +18,7 @@ The purpose of the image classification model is to automatically identify and c
 
 ## Reflection Questions
 1. How did the number of images per class affect your model’s accuracy?
--
+- The model’s accuracy improves when there are more images per class because the model learns better. Fewer images per class can reduce accuracy and cause poor predictions.
 
 2. Which plant species were most commonly misclassified and why?
--
+- Lentils and mung beans were most commonly misclassified because they look very similar in shape, size, and color, which made it difficult for the model to distinguish between them.
