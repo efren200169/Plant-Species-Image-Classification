@@ -1,4 +1,4 @@
-# 🌱 Plant Species Image Classification
+##LW2🌱 Plant Species Image Classification
 ### Using Google Teachable Machine
 
 ---
