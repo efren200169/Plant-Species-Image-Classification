@@ -231,7 +231,7 @@ The table below shows the per-class accuracy results from the **"Under the Hood"
 
 **Overall Model Accuracy: ~0.80 (80%)**
 
-> ![Training Settings](screenshots/APC.png)
+> ![Training Settings](screenshots/MATRIX.png)
 
 ---
 
@@ -239,7 +239,8 @@ The table below shows the per-class accuracy results from the **"Under the Hood"
 
 The confusion matrix visualizes the model's correct and incorrect predictions for each class. Darker blue cells along the diagonal represent correct classifications.
 
-> ![Training Settings](screenshots/MATRIX.png)
+> ![Training Settings](screenshots/accuracy.png)
+> > ![Training Settings](screenshots/ADZUKI.png)
 
 **Key observations from the Confusion Matrix:**
 - **Green Peas** and **Black-eyed Peas** had the fewest misclassifications.
